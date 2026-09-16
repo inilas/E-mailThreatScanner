@@ -35,13 +35,16 @@ Tambien funciona con permisos de ejecucion:
 
 El sistema te guiará de forma interactiva. Acepta la creación del entorno y la instalación de dependencias. Una vez finalizado el proceso, el sistema estará listo para recibir los próximos módulos de análisis de correos.
 
-Fuentes:
+## Fuentes y Referencias
 
-https://keepnetlabs.com/blog/most-common-phishing-email-examples-keepnet
-https://pypi.org/project/extract-msg/
-https://requests.readthedocs.io/
-https://rich.readthedocs.io/
-https://docs.python.org/3/
-https://attack.mitre.org/techniques/T1566/
-https://apwg.org/
-https://owasp.org/
+**Herramientas y Librerías:**
+*   [Python 3 (Documentación Oficial)](https://docs.python.org/3/)
+*   [extract-msg (PyPI)](https://pypi.org/project/extract-msg/)
+*   [Requests (Documentación HTTP for Humans)](https://requests.readthedocs.io/)
+*   [Rich (Documentación de interfaz de terminal)](https://rich.readthedocs.io/)
+
+**Ciberseguridad e Inteligencia de Amenazas:**
+*   [MITRE ATT&CK Framework - Técnica T1566 (Phishing)](https://attack.mitre.org/techniques/T1566/)
+*   [APWG (Anti-Phishing Working Group)](https://apwg.org/)
+*   [OWASP (Open Worldwide Application Security Project)](https://owasp.org/)
+*   [Keepnet Labs - Ejemplos más comunes de correos de phishing](https://keepnetlabs.com/blog/most-common-phishing-email-examples-keepnet)
